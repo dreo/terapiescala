@@ -13520,4 +13520,22 @@ pre[class*="language-"] {
 .tweet {
   word-break: break-word; }
 
+.avatar {
+  border-radius: 50%;
+  height: 3rem;
+  width: 3rem;
+  flex-shrink: 0; }
+
+.avatar.avatar-xs, .avatar.avatar-sm {
+  width: 2.25rem;
+  height: 2.25rem; }
+
+.avatar.avatar-lg {
+  width: 4.5rem;
+  height: 4.5rem; }
+
+.avatar.avatar-xl {
+  width: 10.5rem;
+  height: 10.5rem; }
+
 /*# sourceMappingURL=theme.css.map */
